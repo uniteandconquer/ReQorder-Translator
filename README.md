@@ -25,20 +25,17 @@ Important notes for the translator:
 
 In order to preserve the functionality of the ReQorder application, some rules of thumb have to be adhered to:
 
-- You should only translate the actual words, any symbols or code shoud not be altered
+- You should only translate the actual words, any symbols or code should not be altered
 
 - %% are placeholder symbols for dynamically generated text 
 
-- <br> and <br/> are line breaks 
+- \<br> and \<br/> are line breaks 
 
-- <html> and <div> are used for alligning text in the dialogs
+- \<html> and \<div> are used for alligning text in the dialogs
 
 - Single quotes ( ' ) are used to insert text entries into databases in some cases, so it's imperative to not ommit them or add them unless neccesary
 
 - New lines are not allowed, if you hit enter/return you will automatically be directed to the next empty entry. You can go back to the last edited entry by clicking the button at the bottom
-
-Thank you and good luck, scroll down further for more information on how to get started.
-
 
 On the left side you will see a list of keys, each key has a corresponding line of text that you can translate.
 
